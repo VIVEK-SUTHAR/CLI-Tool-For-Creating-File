@@ -3,7 +3,7 @@
 
 ## Using NodeJS ,I tried to make a simple CLI tool that creates file with name and extension 
 ### How to Use this:
-### Clone this repo and terminal
+### Clone this repo using `git clone https://github.com/VIVEK-SUTHAR/CLI-Tool-For-Creating-File.git` and terminal
 ### Run `npm install`
 ### Run `npm link`
 ### Run `mkfile` to get started
